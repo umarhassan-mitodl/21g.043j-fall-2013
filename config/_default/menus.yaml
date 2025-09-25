@@ -1,0 +1,35 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: ad8d2c2d-ddb1-5ec1-ec9b-e01debb7f034
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fcbc2d93-fb14-8c2f-7498-a5fbd83f54f6
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 2a517a5a-a24c-fbee-9f3a-400917233cbe
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: deadad04-85ef-4bea-d798-542c39313f85
+  name: Paper Assignment 1
+  pageRef: /pages/assignments/essay-assignment-1
+  parent: 2a517a5a-a24c-fbee-9f3a-400917233cbe
+  weight: 40
+- identifier: 8311b2e6-54b8-26f1-d0c2-e4900d535e04
+  name: Paper Assignment 2
+  pageRef: /pages/assignments/essay-assignment-2
+  parent: 2a517a5a-a24c-fbee-9f3a-400917233cbe
+  weight: 50
+- identifier: 59a07462-ee29-7417-74f8-4bd1702ce55a
+  name: Scavenger Hunt
+  pageRef: /pages/assignments/chinatown
+  parent: 2a517a5a-a24c-fbee-9f3a-400917233cbe
+  weight: 60
+- identifier: 6e681dd3-ac23-30a3-8a81-904667d69c23
+  name: Paper Assignment 3
+  pageRef: /pages/assignments/essay-assignment-3
+  parent: 2a517a5a-a24c-fbee-9f3a-400917233cbe
+  weight: 70
